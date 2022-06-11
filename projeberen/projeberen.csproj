@@ -1,0 +1,357 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6F6A2543-9563-4ECC-A3B8-059439214341}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>projeberen</RootNamespace>
+    <AssemblyName>projeberen</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x64</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\Bunifu UI WinForms 1.8.0.1\Bunifu UI WinForms 1.8.0.1\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v18.2" />
+    <Reference Include="DevExpress.Data.v18.2" />
+    <Reference Include="DevExpress.Utils.v18.2" />
+    <Reference Include="DevExpress.Sparkline.v18.2.Core" />
+    <Reference Include="DevExpress.XtraBars.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.2" />
+    <Reference Include="DevExpress.Printing.v18.2.Core" />
+    <Reference Include="DevExpress.XtraGrid.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v18.2, Version=18.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AnaEkran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaEkran.Designer.cs">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
+    </Compile>
+    <Compile Include="baslangic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="baslangic.Designer.cs">
+      <DependentUpon>baslangic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="EmanetListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmanetListele.Designer.cs">
+      <DependentUpon>EmanetListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmanetVer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmanetVer.Designer.cs">
+      <DependentUpon>EmanetVer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmİade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmİade.Designer.cs">
+      <DependentUpon>frmİade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="getirmeyenler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="getirmeyenler.Designer.cs">
+      <DependentUpon>getirmeyenler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="grafik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="grafik.Designer.cs">
+      <DependentUpon>grafik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hakkımda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="hakkımda.Designer.cs">
+      <DependentUpon>hakkımda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapEkle.Designer.cs">
+      <DependentUpon>KitapEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KitapListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KitapListele.Designer.cs">
+      <DependentUpon>KitapListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs" />
+    <Compile Include="Odul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odul.Designer.cs">
+      <DependentUpon>Odul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrGiris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrGiris.Designer.cs">
+      <DependentUpon>OgrGiris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrKayit.Designer.cs">
+      <DependentUpon>OgrKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrListele.Designer.cs">
+      <DependentUpon>OgrListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OgrOkuyucuLst.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OgrOkuyucuLst.Designer.cs">
+      <DependentUpon>OgrOkuyucuLst.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Okuyucu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Okuyucu.Designer.cs">
+      <DependentUpon>Okuyucu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OkuyucuListele.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OkuyucuListele.Designer.cs">
+      <DependentUpon>OkuyucuListele.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AnaEkran.resx">
+      <DependentUpon>AnaEkran.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="baslangic.resx">
+      <DependentUpon>baslangic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmanetListele.resx">
+      <DependentUpon>EmanetListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmanetVer.resx">
+      <DependentUpon>EmanetVer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmİade.resx">
+      <DependentUpon>frmİade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="getirmeyenler.resx">
+      <DependentUpon>getirmeyenler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="grafik.resx">
+      <DependentUpon>grafik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hakkımda.resx">
+      <DependentUpon>hakkımda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapEkle.resx">
+      <DependentUpon>KitapEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KitapListele.resx">
+      <DependentUpon>KitapListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odul.resx">
+      <DependentUpon>Odul.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrGiris.resx">
+      <DependentUpon>OgrGiris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrKayit.resx">
+      <DependentUpon>OgrKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrListele.resx">
+      <DependentUpon>OgrListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OgrOkuyucuLst.resx">
+      <DependentUpon>OgrOkuyucuLst.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Okuyucu.resx">
+      <DependentUpon>Okuyucu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OkuyucuListele.resx">
+      <DependentUpon>OkuyucuListele.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\göz.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x %282%29.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\43-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s-910c83559ee19fad592be18161de642361eb9efc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kitaplar-1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kişi-png-8.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kitaplar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\person-search-png-9.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\118-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\img_310507.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\entrust_1003256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a-book--on-png-image-15360.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-computer-icons-login-management-user-5ae155f36cf686.7736884715247170434463.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Untitled-12-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_page_leaves_82167_225x300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Edit-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bireysel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_img.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button-1905964_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grafik-403529.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hata.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hatabildirin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8_horizontal_line_32px_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kırmızı-çizgi-png.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\da.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

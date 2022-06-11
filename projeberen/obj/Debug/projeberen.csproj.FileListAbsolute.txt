@@ -1,0 +1,334 @@
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\projeberen.exe.config
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\projeberen.exe
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Data.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Utils.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraBars.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\Bunifu.Core.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Office.v18.2.Core.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Images.v18.2.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Data.v18.2.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Utils.v18.2.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraBars.v18.2.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\DevExpress.Office.v18.2.Core.xml
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.csprojAssemblyReference.cache
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.AnaEkran.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.baslangic.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.EmanetListele.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.EmanetVer.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.frmİade.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.getirmeyenler.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.Giris.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.grafik.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.hakkımda.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.KitapEkle.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.KitapListele.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.Odul.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.OgrGiris.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.OgrKayit.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.OgrListele.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.OgrOkuyucuLst.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.Okuyucu.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.OkuyucuListele.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.Properties.Resources.resources
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.csproj.GenerateResource.cache
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.exe.licenses
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.csproj.CoreCompileInputs.cache
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.csproj.CopyComplete
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.exe
+G:\Yeni klasör\projeberen1.2\projeberen\obj\Debug\projeberen.pdb
+G:\Yeni klasör\projeberen1.2\projeberen\bin\Debug\projeberen.pdb
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.csprojAssemblyReference.cache
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.AnaEkran.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.baslangic.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.EmanetListele.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.EmanetVer.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.frmİade.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.getirmeyenler.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.Giris.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.grafik.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.hakkımda.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.KitapEkle.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.KitapListele.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.Odul.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OgrGiris.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OgrKayit.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OgrListele.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OgrOkuyucuLst.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.Okuyucu.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OkuyucuListele.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.Properties.Resources.resources
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.csproj.GenerateResource.cache
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.exe.licenses
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.csproj.CoreCompileInputs.cache
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.exe
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.pdb
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\projeberen.exe.config
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\projeberen.exe
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\projeberen.pdb
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\Bunifu.Core.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.csproj.CopyComplete
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\MetroFramework.Design.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\MetroFramework.dll
+C:\Users\beren\Desktop\projeberen1.2\projeberen\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\projeberen.exe.config
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.exe
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.pdb
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\projeberen.exe
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\projeberen.pdb
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\MetroFramework.Design.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\MetroFramework.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\Bunifu.Core.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.csprojResolveAssemblyReference.cache
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.AnaEkran.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.baslangic.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.EmanetListele.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.EmanetVer.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.frmİade.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.getirmeyenler.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.Giris.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.grafik.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.hakkımda.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.KitapEkle.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.KitapListele.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.Odul.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OgrGiris.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OgrKayit.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OgrListele.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OgrOkuyucuLst.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.Okuyucu.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.OkuyucuListele.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.Properties.Resources.resources
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.csproj.GenerateResource.Cache
+C:\Users\genel\Desktop\projeberen1.2\projeberen\obj\Debug\projeberen.exe.licenses
